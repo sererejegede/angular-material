@@ -1,0 +1,15 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.bg-color mat-grid-tile {
+  background-color: grey;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+mat-list {
+  color: black;
+}
